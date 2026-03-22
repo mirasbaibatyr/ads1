@@ -19,3 +19,20 @@ task4
 task5
 
 <img width="557" height="597" alt="image" src="https://github.com/user-attachments/assets/489d112e-760e-407b-9c69-9a295647af4d" />
+
+task6
+
+<img width="588" height="548" alt="image" src="https://github.com/user-attachments/assets/4e05bd4d-f180-4c5b-9306-ef5037a80086" />
+
+task7
+
+<img width="717" height="607" alt="image" src="https://github.com/user-attachments/assets/428371b9-adf4-45ec-9a7a-5fa5c2a8442b" />
+
+task8
+
+<img width="647" height="746" alt="image" src="https://github.com/user-attachments/assets/f6d6434b-de18-4f70-b9f8-91765dbade59" />
+
+task9
+<img width="627" height="555" alt="image" src="https://github.com/user-attachments/assets/4df732b3-4358-4c2e-8327-8b0f7482c776" />
+
+In this assigment i understood how to use recursion
