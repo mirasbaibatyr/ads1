@@ -1,3 +1,4 @@
+package org.example;
 import java.util.Scanner;
 public class Task1 {
 
@@ -9,10 +10,9 @@ public class Task1 {
             System.out.println(number % 10);
         }
     }
-
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
         dj(n);
     }
 }
